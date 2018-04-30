@@ -13,4 +13,8 @@ void main (){
   printf("master french 에 code 를 삽입하십시오\n");
   printf("얄라리 얄라셩 얄라리얄라");
 
+  for ( a = 0 ; a < 10 ; a++){
+    printf("test brench\n");
+  }
+
 }
